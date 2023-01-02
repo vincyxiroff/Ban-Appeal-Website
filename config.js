@@ -1,5 +1,5 @@
-const webhookURL = "" // MANDATORY | Your Webhook URL Here
-const avatarURL = "" // OPTIONAL | The URL for the PFP of the webhook itself. Must be a link to a supported image format.
+const webhookURL = "https://discord.com/api/webhooks/1059576358453395486/1gNJt_scrCjw5vVtZ6uIrfs1K9LdOPHWEwcIWr-mp_Vw1m1wcLHcJwbzH9M9_OQ8AHUm" // MANDATORY | Your Webhook URL Here
+const avatarURL = "https://cdn.discordapp.com/attachments/942112217942339611/1059576591740583976/bamboo.png" // OPTIONAL | The URL for the PFP of the webhook itself. Must be a link to a supported image format.
 
 // Getting the elements from the HTML page
 const username = document.getElementById('username')
